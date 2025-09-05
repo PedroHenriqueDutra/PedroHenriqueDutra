@@ -1,6 +1,12 @@
 <!-- Badges e visualizações -->
 ![GitHub followers](https://img.shields.io/github/followers/PedroHenriqueDutra?label=Seguidores&style=social)
 ![Profile views](https://komarev.com/ghpvc/?username=PedroHenriqueDutra&color=blue)
+## 📈 Estatísticas do GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroHenriqueDutra&show_icons=true&theme=default&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriqueDutra&layout=compact&langs_count=6&theme=default"/>
+</p>
 
 # 👋 Olá! Eu sou o Pedro Henrique Dutra
 
@@ -26,15 +32,6 @@ Estudante de TI no Brasil, me preparando para atuar como **freelancer internacio
 - 🔧 [`BotTelegram`](https://github.com/PedroHenriqueDutra/BOT): Bot funcional com Python e integração com Telegram
 - ⚡ [`API-FastAPI`](https://github.com/PedroHenriqueDutra/API): API REST simples com FastAPI e endpoints documentados
 - 📁 [`Scripts-Automatizacao`](https://github.com/PedroHenriqueDutra/SCRIPTS): Coleção de scripts úteis de automação para tarefas diárias
-
----
-
-## 📈 Estatísticas do GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroHenriqueDutra&show_icons=true&theme=default&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriqueDutra&layout=compact&langs_count=6&theme=default"/>
-</p>
 
 ---
 
